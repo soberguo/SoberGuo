@@ -1,11 +1,7 @@
-### Hi there 👋
+### 欢迎光临 👋
 
-<!--
-**soberguo/SoberGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 目前研究主要集中于深度学习计算机视觉领域
+ ✨... ✨
+🔭 目前研究主要集中于深度学习计算机视觉领域
 - 🌱 图像分类学习中...
 - 👯 复现代码工作中...
 - 🤔  ...
