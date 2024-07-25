@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently working on Human-Object Interaction tasks.
 
-<img align="left" alt="Sober's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SoberGuo&include_all_commits=true&hide=contribs&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="150"/>
+<img align="left" alt="SoberGuo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SoberGuo&include_all_commits=true&hide=contribs&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="150"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoberGuo&layout=compact&theme=chartreuse-dark&hide_border=true" height="150"/>
 
 - 🌱 HOI
